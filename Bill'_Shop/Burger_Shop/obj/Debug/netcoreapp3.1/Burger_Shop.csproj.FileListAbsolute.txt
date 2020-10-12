@@ -1,0 +1,13 @@
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.exe
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.deps.json
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.runtimeconfig.json
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.runtimeconfig.dev.json
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.dll
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\bin\Debug\netcoreapp3.1\Burger_Shop.pdb
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.dll
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.pdb
+C:\Users\shivansh\Desktop\OOPS challenge\oops_challenge\Bill'_Shop\Burger_Shop\obj\Debug\netcoreapp3.1\Burger_Shop.genruntimeconfig.cache
